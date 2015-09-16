@@ -3,11 +3,15 @@
 /app/Config/database.php
 /app/webroot/files
 /app/tmp
+/app/Vendor
 /app/Config/config.php
 /lib/Cake/Console/Templates/skel/tmp/
 /plugins
 /vendors
+/vendor
+/Plugin
 /tags
+composer.lock
 
 
 ### NetBeans ###

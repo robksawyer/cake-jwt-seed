@@ -3,6 +3,6 @@
         "vendor-dir": "Vendor"
     },
     "require": {
-        "firebase/php-jwt": "^2.1"
+        "lcobucci/jwt": "^3.0"
     }
 }
